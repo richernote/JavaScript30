@@ -1,4 +1,7 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+﻿This is my own fork of the Wes Bos JavaScript 30 Day Challenge. All chages made are my own.
+
+
+![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
 
